@@ -31,8 +31,6 @@
   <a href="#citation">Citation</a>
 </p>
 
-> [!NOTE]
-> MindWatcher is a research preview developed by **Li Auto Inc.** The models are designed for multimodal tool-integrated reasoning. For the best experience, we recommend using the 32B model or the distilled 4B variant for resource-constrained environments.
 
 # Introduction
 
