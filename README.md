@@ -38,7 +38,7 @@ We present **MindWatcher**, a Tool-Integrated Reasoning (TIR) agent capable of a
 
 MindWatcher addresses the limitations of current LLMs in long-tail knowledge and fine-grained visual perception. It is trained using a novel **Step-wise Normalized GRPO** algorithm and a hybrid reward system, abandoning traditional SFT to avoid "alignment tax" and tool abuse.
 
-MindWatcher demonstrates SOTA performance on the newly constructed **MWE-Bench** and competitive results on MMSearch and SimpleVQA. We also distilled three smaller-scale models (2B, 3B, 4B) that rival larger baselines. The MWE-Bench and the distilled model will be released soon.
+MindWatcher demonstrates SOTA performance on the newly constructed **MWE-Bench** and competitive results on MMSearch and SimpleVQA. We also distilled three smaller-scale models (2B, 3B, 4B) that rival larger baselines. The MWE-Bench and the distilled models will be released soon.
 
 <p align="center">
   <img width="100%" src="./assets/performance.png">
