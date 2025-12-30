@@ -90,7 +90,7 @@ If you find our work helpful, please cite our paper:
 ```bibtex
 @article{mindwatcher2025,
   title={MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning},
-  author={MindGPT-ov Team and Li Auto Inc},
+  author={MindGPT-ov Team},
   journal={arXiv preprint arXiv:2512.23412},
   year={2025}
 }
