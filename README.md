@@ -83,6 +83,42 @@ MindWatcher achieves state-of-the-art performance on the **MWE-Bench**, signific
 | **MindWatcher-4B** | 56.03 | <u>84.62</u> | <u>87.66</u> | 68.25 | 41.11 | 36.62 | 69.63 |
 | **MindWatcher-32B** | **71.31** | **86.04** | **88.92** | **77.78** | 47.78 | <u>46.48</u> | **75.35** |
 
+# Trajectory Display
+
+> Click each case below to expand / collapse. Only one panel is shown at a time for a slide-like browsing experience.
+
+<details open>
+<summary><kbd>&nbsp;1 / 4&nbsp;</kbd>&ensp;<b>Case 1</b></summary>
+<br>
+<p align="center">
+  <img width="100%" src="./assets/20251229143758_rec_.gif">
+</p>
+</details>
+
+<details>
+<summary><kbd>&nbsp;2 / 4&nbsp;</kbd>&ensp;<b>Case 2</b></summary>
+<br>
+<p align="center">
+  <img width="100%" src="./assets/20251229150346_rec_.gif">
+</p>
+</details>
+
+<details>
+<summary><kbd>&nbsp;3 / 4&nbsp;</kbd>&ensp;<b>Case 3</b></summary>
+<br>
+<p align="center">
+  <img width="100%" src="./assets/20251229151845_rec_.gif">
+</p>
+</details>
+
+<details>
+<summary><kbd>&nbsp;4 / 4&nbsp;</kbd>&ensp;<b>Case 4</b></summary>
+<br>
+<p align="center">
+  <img width="100%" src="./assets/20251229154230_rec_.gif">
+</p>
+</details>
+
 # Citation
 
 If you find our work helpful, please cite our paper:
